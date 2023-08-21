@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Serkom</string>
+    <string name="title">SERKOM KPU</string>
+    <string name="form_entry">Form Entry</string>
+    <string name="data_list">Lihat Data</string>
+    <string name="information">Information</string>
+    <string name="exit">Keluar</string>
+    <string name="create">ITTP SERKOM LSP - ASESI (FILFIMO)</string>
+    <string name="nik">NIK</string>
+    <string name="name">Nama</string>
+    <string name="phone">No Telepon</string>
+    <string name="gender">Jenis Kelamin</string>
+    <string name="laki">Laki - Laki</string>
+    <string name="perempuan">Perempuan</string>
+    <string name="tanggal">Tanggal</string>
+    <string name="address">Alamat</string>
+    <string name="photo_title">Bukti Gambar</string>
+    <string name="date">Tanggal</string>
+    <string name="save">Simpan</string>
+    <string name="no_address">Belum ada lokasi</string>
+    <string name="change">Change</string>
+    <string name="success">Data berhasil disimpan</string>
+    <string name="failure">Data tidak berhasil disimpan</string>
+    <string name="choose_item">Pilih item</string>
+    <string name="empty_address">Alamat tidak ditemukan</string>
+    <string name="empty_map">Tema default</string>
+    <string name="back_button">Tombol kembali</string>
+</resources>
